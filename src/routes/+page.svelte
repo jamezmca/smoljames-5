@@ -59,7 +59,7 @@
     <p
         class="text-base sm:text-lg md:text-xl font-medium text-blue-200 bg-slate-950 rounded-xl border-2 border-solid border-[#080E34]"
     >
-        >> Smoljames
+    ✦ Smoljames ✦
     </p>
 
     <ul class="flex flex-col gap-4 md:gap-5 w-full">
