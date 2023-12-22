@@ -91,7 +91,7 @@
     </ul>
     <a href="mailto:jamesismathematicool@gmail.com" class="-mt-2 sm:-mt-1"
         ><i
-            class="fa-regular fa-envelope text-2xl md:text-3xl text-green-300 hover:text-white duration-200"
+            class="fa-regular fa-envelope text-2xl md:text-3xl text-green-300 hover:scale-110 duration-200"
         ></i></a
     >
 </main>
