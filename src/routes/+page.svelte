@@ -111,27 +111,7 @@
             y.parentNode.insertBefore(t, y);
         })(window, document, "clarity", "script", "htf56frmd5");
     </script>
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
-    <!-- Google tag (gtag.js) -->
+
     <!-- Google tag (gtag.js) -->
     <script
         async
