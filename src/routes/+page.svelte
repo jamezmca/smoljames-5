@@ -57,7 +57,7 @@
         alt="logo"
     />
     <p
-        class="text-base sm:text-lg md:text-xl font-medium text-blue-200 bg-slate-950 rounded-xl border-2 border-solid border-[#080E34] px-2 py-1"
+        class="text-base sm:text-lg md:text-xl font-medium text-green-300 bg-slate-950 rounded-xl border-2 border-solid border-[#080E34] px-2 py-1"
     >
     ✦ Smoljames ✦
     </p>
@@ -67,7 +67,7 @@
             <a
                 href={link.url}
                 target="_blank"
-                class="px-4 py-2 sm:px-6 sm:py-3 md:px-8 md:py-3 rounded-lg text-center w-full mx-auto max-w-[540px] relative group flex items-center justify-center relative bg-[#080E34] border-[2px] border-solid border-[#020617] specialShadow text-blue-200"
+                class="px-4 py-2 sm:px-6 sm:py-3 md:px-8 md:py-3 rounded-lg text-center w-full mx-auto max-w-[540px] relative group flex items-center justify-center relative bg-[#080E34] border-[2px] border-solid border-[#020617] specialShadow text-green-300"
             >
                 <!-- <div
                     class={"absolute inset-0 blueBorder duration-500 rounded-md "}
@@ -91,7 +91,7 @@
     </ul>
     <a href="mailto:jamesismathematicool@gmail.com" class="-mt-2 sm:-mt-1"
         ><i
-            class="fa-regular fa-envelope text-2xl md:text-3xl text-blue-200 hover:text-white duration-200"
+            class="fa-regular fa-envelope text-2xl md:text-3xl text-green-300 hover:text-white duration-200"
         ></i></a
     >
 </main>
