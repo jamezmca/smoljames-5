@@ -57,7 +57,7 @@
         alt="logo"
     />
     <p
-        class="text-base sm:text-lg md:text-xl font-medium text-blue-200 bg-slate-950 rounded-xl border-2 border-solid border-[#080E34]"
+        class="text-base sm:text-lg md:text-xl font-medium text-blue-200 bg-slate-950 rounded-xl border-2 border-solid border-[#080E34] px-2 py-1"
     >
     ✦ Smoljames ✦
     </p>
