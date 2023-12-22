@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: 'Jetbrains Mono', sans-serif;
+}
+
+.textGradient {
+    font-size: 72px;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h1,
+h2,
+h3,
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.blueGradient {
+    background: -webkit-linear-gradient(30deg, #3b82f6, #67e8f9);
+    /* background: -webkit-linear-gradient(30deg, #6d28d9, #f472b6); */
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.blueBorder {
+    background: linear-gradient(30deg, #3b82f6, #67e8f9);
+    /* background: linear-gradient(30deg, #6d28d9, #f472b6); */
+
+}
+
+.specialShadow {
+    box-shadow: 8px 8px 0 0 #020617;
+}
+
+.specialShadow:hover {
+    box-shadow: 4px 4px 0 0 #020617;
+    transform: translate(4px, 4px);
+}
