@@ -42,7 +42,7 @@
         },
         {
             name: "Store",
-            url: "https://www.store.smoljames.com",
+            url: "https://store.smoljames.com/",
             icon: "fa-solid fa-store",
         },
     ];
