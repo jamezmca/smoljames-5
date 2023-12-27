@@ -40,11 +40,11 @@
             url: "https://github.com/jamezmca/learn-to-code/tree/main/course%20notes",
             icon: "fa-solid fa-book",
         },
-        // {
-        //     name: "Spiccy Site",
-        //     url: "https://github.com/jamezmca/learn-to-code/tree/main/course%20notes",
-        //     icon: "fa-solid fa-book",
-        // },
+        {
+            name: "Store",
+            url: "https://www.store.smoljames.com",
+            icon: "fa-solid fa-store",
+        },
     ];
 </script>
 
@@ -59,7 +59,7 @@
     <p
         class="text-base sm:text-lg md:text-xl font-medium text-emerald-300 bg-slate-950 rounded-xl border-2 border-solid border-[#080E34] px-2 py-1"
     >
-    ✦ Smoljames ✦
+        ✦ Smoljames ✦
     </p>
 
     <ul class="flex flex-col gap-4 md:gap-5 w-full">
@@ -112,6 +112,7 @@
         })(window, document, "clarity", "script", "htf56frmd5");
     </script>
 
+    <!-- Google tag (gtag.js) -->
     <!-- Google tag (gtag.js) -->
     <script
         async
