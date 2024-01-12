@@ -45,6 +45,11 @@
             url: "https://store.smoljames.com/",
             icon: "fa-solid fa-store",
         },
+        {
+            name: "Chill Coding Instrumental",
+            url: "https://youtu.be/3p8jLMz0lu8?si=NRnKJGryVtGfXBU4",
+            icon: "fa-solid fa-music",
+        },
     ];
 </script>
 
@@ -112,6 +117,7 @@
         })(window, document, "clarity", "script", "htf56frmd5");
     </script>
 
+    <!-- Google tag (gtag.js) -->
     <!-- Google tag (gtag.js) -->
     <!-- Google tag (gtag.js) -->
     <script
