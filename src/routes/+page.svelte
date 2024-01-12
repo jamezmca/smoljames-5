@@ -46,7 +46,7 @@
             icon: "fa-solid fa-store",
         },
         {
-            name: "Chill Coding Instrumental",
+            name: "Chill Coding Music",
             url: "https://youtu.be/3p8jLMz0lu8?si=NRnKJGryVtGfXBU4",
             icon: "fa-solid fa-music",
         },
